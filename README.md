@@ -1,5 +1,7 @@
+**This is a group project completed for [CPSC-362 CSUF], originally developed with Alexander Blocker, Matthew Lim, and Ngoc Chung Tran.**
+
 # CPSC-362-Chat-App-Project
-## Group 5: 
+## Group 5 - Members: 
 - Alexander Blocker
 - Anh Mai
 - Matthew Lim
